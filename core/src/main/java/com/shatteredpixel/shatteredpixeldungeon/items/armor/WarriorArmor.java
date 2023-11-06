@@ -27,6 +27,5 @@ public class WarriorArmor extends ClassArmor {
 
 	{
 		image = ItemSpriteSheet.ARMOR_WARRIOR;
-	}
+	}}
 
-}
